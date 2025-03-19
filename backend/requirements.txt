@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+numpy
+torch
+scipy
+PyAudio
+faster-whisper
+pydantic
+python-multipart
+colorama
+webrtcvad-wheels
